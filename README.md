@@ -80,11 +80,6 @@ npm run dev
 - Admin : admin@gmail.com / admin
 - Prof : aymenalioua@gmail.com / qwerty
 
-<div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{aymenALa}/count.svg" /></p>
-<br>
-</div>
 
 
