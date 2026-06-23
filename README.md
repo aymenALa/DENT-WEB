@@ -76,18 +76,6 @@ npm run dev
 ### Data base
 - Import the 'dents.sql' database file into your local MySQL server 
 
-## Demo
-
-
-
-
-
-https://github.com/aymenALa/DENT-WEB/assets/128039351/97954a15-7522-4b88-901f-5b5e8ee269fd
-
-![image](https://github.com/user-attachments/assets/ab871f5d-4606-4b86-8870-1745600c276e)
-
-![image](https://github.com/user-attachments/assets/e0193e7e-8e28-474d-8c8e-278d7ae7d0a3)
-
 ### Accounts:
 - Admin : admin@gmail.com / admin
 - Prof : aymenalioua@gmail.com / qwerty
